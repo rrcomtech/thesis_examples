@@ -6,6 +6,6 @@ Datum: 31.01.2021
 
 
 ### Related Repositories
-[GLSP Examples](https://github.com/rrcomtech/glsp-examples)
-[GLSP Server](https://github.com/rrcomtech/glsp-server)
+[GLSP Examples](https://github.com/rrcomtech/glsp-examples) <br>
+[GLSP Server](https://github.com/rrcomtech/glsp-server) <br>
 [GLSP Client](https://github.com/rrcomtech/glsp-client)
